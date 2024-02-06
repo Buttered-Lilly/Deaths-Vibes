@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Death's Vibes", "Death's Vibes.csproj", "{E979BD22-D634-4A55-85CC-08FF215776AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E979BD22-D634-4A55-85CC-08FF215776AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E979BD22-D634-4A55-85CC-08FF215776AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E979BD22-D634-4A55-85CC-08FF215776AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E979BD22-D634-4A55-85CC-08FF215776AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2CE861-EC85-44F4-A8F3-686EF4C76DA3}
+	EndGlobalSection
+EndGlobal
